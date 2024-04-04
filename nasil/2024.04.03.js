@@ -5,8 +5,6 @@
 두 번째부터는 이용 횟수에 따라 price의 배수가 됨
 그리고 현재 가진 금액이 주어졌을 때, 
 놀이기구를 count번 타게 되면 얼마가 모자라는지를 계산하는 문제
-
-
 */
 
 function solution(price, money, count) {
